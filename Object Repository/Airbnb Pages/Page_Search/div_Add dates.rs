@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add dates</name>
+   <tag></tag>
+   <elementGuidId>e0de87ae-e4de-4b35-9720-d0926079338c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-tabpanel']/div/div[3]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p13ly71q.atm_c8_fkimz8.atm_g3_11yl58k.atm_fr_4ym3tx.atm_cs_atq67q.atm_ks_15vqwwr.atm_sq_1l2sidv.atm_vy_1osqo2v.p1hzzo26.atm_7l_1jsbn00.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>879a03a8-7fc2-4a8f-a402-6e6af9a98efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p13ly71q atm_c8_fkimz8 atm_g3_11yl58k atm_fr_4ym3tx atm_cs_atq67q atm_ks_15vqwwr atm_sq_1l2sidv atm_vy_1osqo2v p1hzzo26 atm_7l_1jsbn00 dir dir-ltr</value>
+      <webElementGuid>c717b055-7beb-4c27-82a5-83312326767a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add dates</value>
+      <webElementGuid>46f7b5a0-2cc5-4637-acce-9215075658aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;ir2ixub atm_9s_1txwivl atm_h_1h6ojuz atm_am_163v1yp atm_e2_1osqo2v atm_jb_idpfg4 atm_mj_1wugsn5 atm_1wn1q82_nxa32x dir dir-ltr&quot;]/div[@class=&quot;cwk1mic atm_9s_1txwivl atm_am_eqk4pz atm_jb_idpfg4 dir dir-ltr&quot;]/div[@class=&quot;c1ddhymz atm_am_16wc86f atm_h_1h6ojuz atm_9s_1txwivl atm_gi_1n1ank9 atm_jb_idpfg4 atm_mk_h2mmj6 atm_vy_10bmcub dir dir-ltr&quot;]/div[@class=&quot;b1spesa7 atm_1s_glywfm atm_26_1j28jx2 atm_3f_idpfg4 atm_7l_1kw7nm4 atm_9j_tlke0l atm_bx_1kw7nm4 atm_c8_1kw7nm4 atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_ks_ewfl5b atm_rd_glywfm atm_vb_1wugsn5 atm_kd_glywfm atm_9s_1ulexfb atm_am_qk3dho atm_l8_t94yts atm_r3_1e5hqsa atm_vy_idpfg4 atm_wq_kb7nvz atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_6h_1s2714j_vmtskl atm_66_nqa18y_vmtskl atm_4b_1egtlkw_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_glywfm_vmtskl atm_e2_1vi7ecw_vmtskl atm_fq_idpfg4_vmtskl atm_h3_4h84z3_vmtskl atm_mk_stnw88_vmtskl atm_n3_idpfg4_vmtskl atm_tk_1ssbidh_vmtskl atm_wq_idpfg4_vmtskl atm_2a_1u8qnfj_9in345 atm_3f_okh77k_9in345 atm_5j_1vi7ecw_9in345 atm_6i_idpfg4_9in345 atm_92_1yyfdc7_9in345 atm_fq_idpfg4_9in345 atm_mk_stnw88_9in345 atm_n3_idpfg4_9in345 atm_tk_idpfg4_9in345 atm_wq_idpfg4_9in345 b1fbhdca atm_9s_1ulexfb_1rqz0hn atm_gi_eflcwz_9bj8xt atm_2d_1t7w313_9bj8xt atm_wq_cs5v99_1w3cfyq atm_9s_1ulexfb_9xuho3 atm_uc_ryfd4z_1tasb51 atm_4b_18pqv07_1tasb51 atm_70_8rjl4o_1tasb51 atm_gi_eflcwz_1tasb51 atm_uc_glywfm_1tasb51_1rrf6b5 atm_wq_cs5v99_18zk5v0 atm_9s_1ulexfb_fiqcvf atm_uc_ryfd4z_g9xbc8 atm_4b_18pqv07_g9xbc8 atm_70_8rjl4o_g9xbc8 atm_gi_eflcwz_g9xbc8 atm_uc_glywfm_g9xbc8_1rrf6b5 dir dir-ltr&quot;]/div[@class=&quot;c1sse431 atm_l8_srw7uq atm_ks_15vqwwr atm_mk_h2mmj6 atm_vv_1q9ccgz atm_vy_1osqo2v atm_wq_kb7nvz dir dir-ltr&quot;]/div[@class=&quot;p13ly71q atm_c8_fkimz8 atm_g3_11yl58k atm_fr_4ym3tx atm_cs_atq67q atm_ks_15vqwwr atm_sq_1l2sidv atm_vy_1osqo2v p1hzzo26 atm_7l_1jsbn00 dir dir-ltr&quot;]</value>
+      <webElementGuid>c1471bb2-f416-4ca0-b323-c9611778f28f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-tabpanel']/div/div[3]/div/div/div/div[2]</value>
+      <webElementGuid>f3d68539-13e1-4093-972e-ab2731433738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]</value>
+      <webElementGuid>bd25a163-0e7c-4bec-a875-c066f96d6660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add dates' or . = 'Add dates')]</value>
+      <webElementGuid>fbff759f-1998-4866-92f8-8dc091ebaf53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

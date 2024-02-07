@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Atlanta, Georgia, United States</name>
+   <tag></tag>
+   <elementGuidId>95c7998e-6093-439d-b3ee-1d94d5124b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.s152dg4g.atm_c8_8ycq01.atm_fr_rvubnj.atm_cs_bfngof.atm_7l_18pqv07.atm_g3_adnk3f.atm_ks_15vqwwr.atm_sq_1l2sidv.atm_9s_cj1kg8.atm_6w_1e54zos.atm_fy_ouytup.atm_ks_zryt35__1rgatj2.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78943c66-184e-4b75-8233-56380c742bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s152dg4g atm_c8_8ycq01 atm_fr_rvubnj atm_cs_bfngof atm_7l_18pqv07 atm_g3_adnk3f atm_ks_15vqwwr atm_sq_1l2sidv atm_9s_cj1kg8 atm_6w_1e54zos atm_fy_ouytup atm_ks_zryt35__1rgatj2 dir dir-ltr</value>
+      <webElementGuid>9fd88109-6c6b-49a8-96e1-4b3860dfcbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atlanta, Georgia, United States</value>
+      <webElementGuid>8b680be1-5790-4905-aeae-3cf9ec307ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;tj1l9bw atm_am_mu6cqg atm_9s_1txwivl atm_ar_1bp4okc atm_fc_1h6ojuz atm_c8_1l6y6xl atm_g3_i7n6xh atm_fr_4z8b6j atm_cs_atq67q atm_7l_12u4tyr dir dir-ltr&quot;]/div[@class=&quot;s152dg4g atm_c8_8ycq01 atm_fr_rvubnj atm_cs_bfngof atm_7l_18pqv07 atm_g3_adnk3f atm_ks_15vqwwr atm_sq_1l2sidv atm_9s_cj1kg8 atm_6w_1e54zos atm_fy_ouytup atm_ks_zryt35__1rgatj2 dir dir-ltr&quot;]</value>
+      <webElementGuid>101b2e43-c30d-46e9-9693-8b76d7c99521</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      <webElementGuid>4b06bfd9-5fcb-4571-8f0c-42bf5260b9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/div</value>
+      <webElementGuid>456be00b-fc64-4582-a37a-92aeed564aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Atlanta, Georgia, United States' or . = 'Atlanta, Georgia, United States')]</value>
+      <webElementGuid>453bd620-e7b7-4982-af57-8089341083ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
